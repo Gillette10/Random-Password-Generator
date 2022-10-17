@@ -33,6 +33,7 @@ body {
     font-family: 'Karla', sans-serif;
     color: var(--primary-color-night);
     font-size: 2.5rem;
+    margin-bottom: 1.3rem;
 }
 
 .header-title-green {
